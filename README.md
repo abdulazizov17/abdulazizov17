@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulazizov asilbek
+- 👋 Hi, I’m Abdulazizov Asilbek
 - 👀 I’m interested in  writing code using Python, playing football
 - 🌱 I’m currently learning to create web frameworks and deploy
 - 💞️ I’m looking to collaborate on building large-scale websites and working on such projects with a team.
